@@ -35,9 +35,9 @@ whywhywhy, whywhywhy, whywhywhy whywhywhy, whywhywhy whywhywhy. whywhywhy whywhy
 - **whywhywhy whywhywhy**: whywhywhy whywhywhy whywhywhy; whywhywhy whywhywhy whywhywhy whywhywhy whywhywhy **whywhywhy whywhywhy whywhywhy** whywhywhy whywhywhy whywhywhy whywhywhy whywhywhy whywhywhy.
 - **whywhywhy whywhywhy whywhywhy whywhywhy** whywhywhy whywhywhy whywhywhy whywhywhy whywhywhy whywhywhy whywhywhy.
 
-[whywhywhy whywhywhy](docs/OPERATOR-MANUAL.md) · [whywhywhy whywhywhy whywhywhy whywhywhy](docs/demo.mp4) · [whywhywhy whywhywhy whywhywhy](docs/BUILDING.md) · [whywhywhy whywhywhy whywhywhy](LICENSING.md)
+[Operator manual](docs/OPERATOR-MANUAL.md) · [Demo film with sound](docs/demo.mp4) · [Build and test](docs/BUILDING.md) · [Credits and licenses](LICENSING.md)
 
-**whywhywhy 0.1.0** whywhywhy whywhywhy `whywhywhy_0.1.0.whywhywhy` (whywhywhy whywhywhy `whywhywhy-1_947113`).
+**Version 0.1.0** builds as `whywhywhy_0.1.0.fwsc` (package identity `FM-1_947113`).
 
 ## Credits
 
