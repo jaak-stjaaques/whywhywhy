@@ -1,0 +1,9 @@
+{
+  "what": "A wordless synth for exploring. Four coloured buoys float on paper and move with what you hear. Six algorithms (glass, birch, dots, pulse, fold, air), an ARP, four polymetric tracks, 55 scales with true tunings applied last, four effects in parallel, eight scenes where an empty one is a new random piece.",
+  "kinds": ["synth"],
+  "play": "https://joakimeriksson.github.io/fm1-emu/",
+  "cheat": "https://github.com/jaak-stjaaques/whywhywhy/blob/main/docs/OPERATOR-MANUAL.md",
+  "image": "docs/fmhub-card.png",
+  "color": "#E84A30",
+  "sounds": "none"
+}

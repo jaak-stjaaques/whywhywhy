@@ -1,0 +1,86 @@
+# WHYWHYWHY demo film: tests/run_host.sh-like, with frames: build/host/buoy build/host/demo tests/scripts/demo.txt 25
+2300 btn 12
+3200 enc 2 -6
+3600 enc 2 6
+4400 enc 3 -8
+5200 enc 3 8
+# EDIT: play, sweep the first knob
+6500 btn 6
+6700 keys 0x80
+7200 keys 0
+7300 keys 0x800
+7700 keys 0
+7800 enc 2 8
+7900 keys 0x4000
+8500 keys 0
+8600 enc 2 8
+8700 keys 0x80
+9300 keys 0
+9400 enc 1 1
+9600 keys 0x10
+10100 keys 0
+10300 keys 0x200
+10900 keys 0
+11000 enc 1 1
+11200 keys 0x80
+11800 keys 0
+12000 keys 0x2000
+12600 keys 0
+# ENV: a chord
+12800 btn 4
+13000 keys 0x891
+14600 keys 0
+16000 enc 5 10
+16200 keys 0x4800
+17200 keys 0
+# LFO
+17400 btn 5
+17500 enc 3 25
+17800 keys 0x80
+19800 keys 0
+19900 enc 5 1
+20000 keys 0x80
+21500 keys 0
+# ARP on, a chord
+21700 btn 10
+21800 btn 10
+21900 keys 0x891
+22300 keys 0
+23500 enc 2 2
+25000 enc 4 1
+# SEQ: record a few notes over track 1
+26000 btn 11
+26200 enc 5 -3
+26400 btn 10
+26500 btn 13
+26700 keys 0x80
+26800 keys 0
+27100 keys 0x1000
+27200 keys 0
+27500 keys 0x200
+27600 keys 0
+28000 btn 13
+# SCALE: another scale, a mode, then a new key
+29000 btn 3
+29400 enc 2 3
+30200 enc 3 2
+31000 enc 5 12
+31800 keys 0x20
+31900 keys 0
+32800 keys 0x800
+32900 keys 0
+# FX
+33800 btn 2
+34000 enc 2 15
+34600 enc 5 10
+35200 enc 4 12
+# GLO
+36400 btn 7
+36600 enc 2 6
+37600 enc 3 10
+# a new scene, then home
+38600 enc 6 1
+39600 btn 8
+40000 enc 6 1
+41000 enc 6 -1
+44500 end

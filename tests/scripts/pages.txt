@@ -1,0 +1,74 @@
+# WHYWHYWHY: every page, for the screenshots (tests/run_host.sh tests/scripts/pages.txt)
+2400 btn 12
+2600 keys 0x80
+2700 keys 0
+2900 keys 0x800
+3000 keys 0
+3600 shot
+# EDIT, every algorithm, a note on each
+3700 btn 6
+3750 enc 1 -6
+3800 keys 0x80
+4300 keys 0
+4350 shot
+4400 enc 1 1
+4450 keys 0x800
+4950 keys 0
+5000 shot
+5050 enc 1 1
+5100 keys 0x80
+5600 keys 0
+5650 shot
+5700 enc 1 1
+5750 keys 0x80
+6250 keys 0
+6300 shot
+6350 enc 1 1
+6400 enc 2 6
+6450 keys 0x80
+6950 keys 0
+7000 shot
+7050 enc 1 1
+7100 keys 0x80
+7600 shot
+7650 keys 0
+# ENV with a chord held
+7700 btn 4
+7800 keys 0x4891
+8300 shot
+8400 keys 0
+# LFO
+8500 btn 5
+8550 enc 3 20
+8600 shot
+# ARP on, a chord
+8700 btn 10
+8800 btn 10
+8900 keys 0x891
+9100 keys 0
+10200 shot
+# SEQ
+10300 btn 11
+11000 shot
+# SCALE, then a new key
+11100 btn 3
+11600 shot
+11700 keys 0x400
+11800 keys 0
+11900 shot
+12400 shot
+# FX
+12500 btn 2
+12550 enc 2 10
+12560 enc 4 12
+12570 enc 5 10
+13200 shot
+# GLO
+13300 btn 7
+13700 shot
+# PRESETS, SAVE
+13800 enc 6 1
+14100 shot
+14200 btn 9
+14600 shot
+16000 end

@@ -1,0 +1,63 @@
+# The pictures of docs/screenshots: tests/run_host.sh tests/scripts/shots.txt
+1700 shot
+2400 btn 12
+2600 keys 0x80
+2700 keys 0
+2900 keys 0x800
+3000 keys 0
+3900 shot
+4000 btn 6
+4050 enc 1 -6
+5600 keys 0x80
+5900 shot
+6200 keys 0
+6400 enc 1 1
+7900 keys 0x80
+8200 shot
+8500 keys 0
+8700 enc 1 1
+10200 keys 0x80
+10500 shot
+10800 keys 0
+11000 enc 1 1
+12500 keys 0x80
+12800 shot
+13100 keys 0
+13300 enc 1 1
+14800 keys 0x80
+15100 shot
+15400 keys 0
+15600 enc 1 1
+17100 keys 0x80
+17400 shot
+17700 keys 0
+17900 btn 4
+18000 keys 0x4891
+18500 shot
+18600 keys 0
+18800 btn 5
+18850 enc 3 20
+18850 enc 5 1
+19400 shot
+19600 btn 10
+19700 btn 10
+19800 keys 0x891
+20000 keys 0
+21100 shot
+21300 btn 11
+22200 shot
+22400 btn 3
+22500 keys 0x400
+22600 keys 0
+23600 shot
+23800 btn 2
+23850 enc 2 10
+23860 enc 4 12
+23870 enc 5 10
+24800 shot
+25000 btn 7
+25900 shot
+26100 enc 6 1
+26500 btn 9
+26800 shot
+27700 end
